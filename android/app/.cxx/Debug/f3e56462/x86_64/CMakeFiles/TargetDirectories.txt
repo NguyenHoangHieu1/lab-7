@@ -1,0 +1,2 @@
+C:/Users/avc/Documents/LTDNT/Lap_Cross_App-lap-7/Lap_Cross_App-lap-7/android/app/.cxx/Debug/f3e56462/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/avc/Documents/LTDNT/Lap_Cross_App-lap-7/Lap_Cross_App-lap-7/android/app/.cxx/Debug/f3e56462/x86_64/CMakeFiles/rebuild_cache.dir
